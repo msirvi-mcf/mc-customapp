@@ -13,8 +13,8 @@ const config = {
     },
 
     production: {
-      applicationId: 'TODO',
-      url: 'https://your_app_hostname.com',
+      applicationId: 'cl8mvv4ok39404201y2qw5kmi3h',
+      url: 'https://mc-customapp.pages.dev',
     },
   },
 
